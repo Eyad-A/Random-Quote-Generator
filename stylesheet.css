@@ -1,0 +1,28 @@
+html {
+	text-align: center;
+}
+.title {
+	padding: 15px;
+}
+.content {
+	padding: 5px;
+	background: #EFEFEF;
+}
+.text {
+	font-size: 1.75em;
+	font-family: 'Indie Flower', cursive;
+}
+.author {
+	font-size: 1.25em;
+	text-align: right;
+	font-family: 'Open Sans', sans-serif;
+}
+.social {
+	padding: 15px;
+}
+a:hover {
+	text-decoration: none;
+}
+.footer {
+	padding-top: 10px;
+}
